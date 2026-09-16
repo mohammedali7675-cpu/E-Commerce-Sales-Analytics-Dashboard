@@ -195,3 +195,9 @@ The Deep Dive page investigates the key drivers behind revenue and profitability
 - Across categories, profit margins range from **16.30% to 22.80%**, while average discounts remain high at approximately **17–19%**. In **Electronics**, the **18.59% discount exceeds the 16.30% profit margin**, creating significant profitability pressure. **Phones are the most critical**, with only an **8.72% margin against an 18.61% discount**.
 
 - **Recommendation:** Review and reduce discounts across categories, with stricter controls on low-margin products. For **Phones**, consider limiting discounts to around **10%** and reassessing pricing to protect margins while maintaining competitive sales.
+
+### 6. Prioritize High-Margin Sub-Categories and Control Over-Discounting
+
+- Sub-category analysis shows strong profitability in **Appliances (28.18%)**, **Bags (27.46%)**, and **Shoes (22.94%)**, indicating an opportunity to prioritize these profitable products. In contrast, **Phones (8.72%)**, **Decor (12.11%)**, and **Bookcases (12.81%)** have significantly lower margins, suggesting that discounting is putting pressure on profitability. **Phones are the most critical**, with an **18.61% discount—more than 2× its 8.72% profit margin**.
+
+- **Recommendation:** Prioritize high-margin sub-categories such as Appliances, Bags, and Shoes, while reducing discounts and reviewing pricing for low-margin sub-categories. For **Phones**, introduce stricter discount controls and investigate pricing and cost structure to prevent further movement into loss territory.

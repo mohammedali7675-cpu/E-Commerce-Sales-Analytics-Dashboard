@@ -183,7 +183,6 @@ The Deep Dive page investigates the key drivers behind revenue and profitability
 - Repeat customers contribute **₹1.15 Cr (93.66%)** of total revenue, while new customers contribute only **₹7.76 Lakhs (6.34%)**. This indicates strong revenue dependence on existing customers and a relatively small contribution from new-customer acquisition.
 
 - **Recommendation:** Continue strengthening repeat-customer retention while increasing new-customer acquisition through targeted marketing, first-purchase offers, referral programs, and personalized campaigns. Growing the new-customer revenue contribution can help diversify the customer base and reduce dependence on repeat purchases.
-## 💡 Business Recommendation
 
 ### 4.Increase Revenue by Upgrading Lower-Value Customers
 

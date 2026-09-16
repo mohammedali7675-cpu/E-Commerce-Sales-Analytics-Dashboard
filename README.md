@@ -89,3 +89,52 @@ data-driven analysis. SQL queries were developed to analyze:
 
 📄 **[View Complete SQL Analysis](./Analysis_queries.sql)**
 
+## 📊 Power BI Dashboard
+
+The interactive Power BI dashboard provides a two-page view of e-commerce performance, combining sales, profitability, customer behavior, and product-level analysis.
+
+### Page 1 — Executive Overview
+
+The Overview page provides a high-level view of business performance:
+
+- **₹12.25M Total Revenue** generated from **6,721 orders**
+- **₹2.37M Total Profit** with an overall **19.34% profit margin**
+- **2,335 Total Customers** with customer segmentation analysis
+- Monthly revenue trend and significant MoM declines
+- Top 10 products ranked by profit
+- New vs. repeat customer distribution
+- Interactive filters for **Year, Category, and Customer Segment**
+
+### Page 2 — Deep Dive Analysis
+
+The Deep Dive page investigates the key drivers behind revenue and profitability:
+
+- Profit margin vs. average discount by category
+- Customer Pareto analysis comparing the **Top 20% (467 customers)** with the **Bottom 80% (1,868 customers)**
+- Average spend per customer across customer segments
+- Sub-category performance based on orders, discounts, profit margin, and profit
+- Identification of high-margin and low-margin sub-categories
+- Data-driven findings and business recommendations
+
+### Dashboard Features
+
+- Interactive slicers and cross-filtering
+- KPI cards for key business metrics
+- Monthly trend analysis
+- Profitability analysis
+- Customer segmentation
+- Pareto analysis
+- Product and sub-category performance analysis
+- Business-focused insights and recommendations
+
+### Dashboard Preview
+
+#### Overview Dashboard
+
+![Overview Dashboard](./Dashboard%20overview.png)
+
+#### Deep Dive Dashboard
+
+![Deep Dive Dashboard](./Dashboard%20Deepdive.png)
+
+📁 **[Download Power BI Dashboard](./e_commerce_project.pbix)**

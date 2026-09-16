@@ -177,3 +177,9 @@ The Deep Dive page investigates the key drivers behind revenue and profitability
 - The **bottom 10 products generated a total loss of ₹60,997**, driven by three major issues: **excessive discounting, thin profit margins, and high return rates**. Products such as **Bookcases, Sport, Laptop Campaign, Lighting Capital, and Appliances** had discounts of approximately **17–22%**, putting pressure on profitability. **Phones Industry, Phone Cover, and Watches Above** had thin margins of only **9–11%** combined with return rates of **50–65%**, indicating potential quality or product-mismatch issues. **Phones** showed a combined risk with a **19% discount and 38% return rate**, while **Cookware** generated losses with a profit margin below **10%**.
 
 - **Recommendation:** Reduce discounts on low-margin products, investigate quality and product-mismatch issues behind high returns, and review or renegotiate low-margin products. Prioritize corrective action on products with **both high discounts and high return rates** to reduce the ₹60,997 loss and improve overall profitability.
+
+### 3.Strengthen New-Customer Acquisition While Retaining Repeat Customers
+
+- Repeat customers contribute **₹1.15 Cr (93.66%)** of total revenue, while new customers contribute only **₹7.76 Lakhs (6.34%)**. This indicates strong revenue dependence on existing customers and a relatively small contribution from new-customer acquisition.
+
+- **Recommendation:** Continue strengthening repeat-customer retention while increasing new-customer acquisition through targeted marketing, first-purchase offers, referral programs, and personalized campaigns. Growing the new-customer revenue contribution can help diversify the customer base and reduce dependence on repeat purchases.

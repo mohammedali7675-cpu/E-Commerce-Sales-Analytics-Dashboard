@@ -201,3 +201,10 @@ The Deep Dive page investigates the key drivers behind revenue and profitability
 - Sub-category analysis shows strong profitability in **Appliances (28.18%)**, **Bags (27.46%)**, and **Shoes (22.94%)**, indicating an opportunity to prioritize these profitable products. In contrast, **Phones (8.72%)**, **Decor (12.11%)**, and **Bookcases (12.81%)** have significantly lower margins, suggesting that discounting is putting pressure on profitability. **Phones are the most critical**, with an **18.61% discount—more than 2× its 8.72% profit margin**.
 
 - **Recommendation:** Prioritize high-margin sub-categories such as Appliances, Bags, and Shoes, while reducing discounts and reviewing pricing for low-margin sub-categories. For **Phones**, introduce stricter discount controls and investigate pricing and cost structure to prevent further movement into loss territory.
+## 🛠️ Tools Used
+
+- **PostgreSQL** – Data storage, transformation, and SQL-based analysis
+- **Excel** - Data cleaning, Data Formatting
+- **SQL** –  aggregation, customer segmentation, profitability analysis, and business analysis
+- **Power BI** – Interactive dashboard development and data visualization
+- **DAX** – KPI calculations, profit margin analysis, customer segmentation, and time-based metrics

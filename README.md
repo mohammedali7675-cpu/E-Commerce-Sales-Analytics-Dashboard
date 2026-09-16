@@ -3,7 +3,6 @@ Analyzed e-commerce performance to identify revenue trends, profitability issues
 ## 📊 Dashboard
 ### Overview Dashboard
 [View Overview Dashboard](./Dashboard%20overview.png)
-
-
-
 ### Deep Dive Dashboard
+[View Deepdive Dashboard](./Dashboard%20Deepdive.png)
+

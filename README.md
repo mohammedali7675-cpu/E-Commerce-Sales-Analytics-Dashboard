@@ -138,3 +138,30 @@ The Deep Dive page investigates the key drivers behind revenue and profitability
 ![Deep Dive Dashboard](./Dashboard%20Deepdive.png)
 
 📁 **[Download Power BI Dashboard](./e_commerce_project.pbix)**
+
+## 💡 Key Business Findings
+
+### 1. Revenue Performance
+- Generated **₹12.25M revenue** from **6,721 orders** between 2022–2024.
+- Monthly revenue showed significant fluctuations, including a **42% decline in June 2024**, the largest decline highlighted in the dashboard.
+- Furniture and Electronics experienced the largest category-level declines during this period.
+
+### 2. Profitability & Discount Pressure
+- Overall profit reached **₹2.37M**, with a **19.34% profit margin**.
+- Electronics had the highest discount pressure, with **18.6% average discount vs. 16.3% profit margin**.
+- Fashion delivered the highest category margin at **22.8%**, while maintaining a lower **17.9% average discount**.
+
+### 3. Product & Sub-Category Performance
+- **Appliances (28.18%)** and **Bags (27.46%)** achieved the highest sub-category profit margins.
+- **Phones (8.72%)**, **Decor (12.11%)**, and **Bookcases (12.18%)** showed the weakest margins.
+- Bags Store generated approximately **₹84K profit**, making it the highest-profit product shown in the dashboard.
+
+### 4. Customer Revenue Distribution
+- The analysis covered **2,335 customers**.
+- The **Top 20% (467 customers)** generated approximately **₹5.4M**, while the **Bottom 80% (1,868 customers)** generated approximately **₹6.9M**.
+- This represents approximately **44% vs. 56% of revenue**, indicating that revenue is not concentrated entirely among the highest-value customers.
+
+### 5. Customer Spending Gap
+- Top 20% customers spent approximately **₹11.5K per customer**.
+- Bottom 80% customers spent approximately **₹3.7K per customer**.
+- This represents roughly a **3.1× difference in average customer spend**, highlighting an opportunity to increase spending among lower-value customer segments.

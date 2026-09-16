@@ -168,6 +168,6 @@ The Deep Dive page investigates the key drivers behind revenue and profitability
 
 ## 💡 Business Recommendation
 
-### Investigate Potential Supplier Disruption
+### 1.Investigate Potential Supplier Disruption
 
-The **42% revenue decline in June 2024**, driven by **Furniture (-65%)** and **Electronics (-55%)**, may indicate a potential **supplier, inventory, or fulfillment disruption** rather than a discount-related issue. Review stock availability, supplier performance, and fulfillment delays, and strengthen backup-supplier and inventory planning to prevent similar revenue disruptions.
+- The **42% revenue decline in June 2024**, driven by **Furniture (-65%)** and **Electronics (-55%)**, may indicate a potential **supplier, inventory, or fulfillment disruption** rather than a discount-related issue. Review stock availability, supplier performance, and fulfillment delays, and strengthen backup-supplier and inventory planning to prevent similar revenue disruptions.

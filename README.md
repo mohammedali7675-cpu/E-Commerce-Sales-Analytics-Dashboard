@@ -183,3 +183,10 @@ The Deep Dive page investigates the key drivers behind revenue and profitability
 - Repeat customers contribute **₹1.15 Cr (93.66%)** of total revenue, while new customers contribute only **₹7.76 Lakhs (6.34%)**. This indicates strong revenue dependence on existing customers and a relatively small contribution from new-customer acquisition.
 
 - **Recommendation:** Continue strengthening repeat-customer retention while increasing new-customer acquisition through targeted marketing, first-purchase offers, referral programs, and personalized campaigns. Growing the new-customer revenue contribution can help diversify the customer base and reduce dependence on repeat purchases.
+## 💡 Business Recommendation
+
+### 4.Increase Revenue by Upgrading Lower-Value Customers
+
+- The customer distribution is more balanced than a traditional **80/20 Pareto pattern**: the **top 20% (467 customers)** contribute **44% of revenue**, while the **bottom 80% (1,868 customers)** contribute **56%**. However, there is a **3.14× customer spending gap**, with top 20% customers spending **₹11,546 per customer** compared with **₹3,670** for the bottom 80%.
+
+- **Recommendation:** Target the bottom 80% customers, particularly those spending **₹6,000–₹8,000**, with personalized offers, cross-selling, and loyalty incentives to increase their purchase value. If **10% of the bottom 80% customers** can be upgraded toward higher spending levels, the estimated revenue opportunity is approximately **₹14.93 Lakhs**. 

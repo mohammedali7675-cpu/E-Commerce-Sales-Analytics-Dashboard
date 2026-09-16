@@ -189,3 +189,9 @@ The Deep Dive page investigates the key drivers behind revenue and profitability
 - The customer distribution is more balanced than a traditional **80/20 Pareto pattern**: the **top 20% (467 customers)** contribute **44% of revenue**, while the **bottom 80% (1,868 customers)** contribute **56%**. However, there is a **3.14× customer spending gap**, with top 20% customers spending **₹11,546 per customer** compared with **₹3,670** for the bottom 80%.
 
 - **Recommendation:** Target the bottom 80% customers, particularly those spending **₹6,000–₹8,000**, with personalized offers, cross-selling, and loyalty incentives to increase their purchase value. If **10% of the bottom 80% customers** can be upgraded toward higher spending levels, the estimated revenue opportunity is approximately **₹14.93 Lakhs**. 
+
+### 5.Optimize Discounting to Protect Profitability
+
+- Across categories, profit margins range from **16.30% to 22.80%**, while average discounts remain high at approximately **17–19%**. In **Electronics**, the **18.59% discount exceeds the 16.30% profit margin**, creating significant profitability pressure. **Phones are the most critical**, with only an **8.72% margin against an 18.61% discount**.
+
+- **Recommendation:** Review and reduce discounts across categories, with stricter controls on low-margin products. For **Phones**, consider limiting discounts to around **10%** and reassessing pricing to protect margins while maintaining competitive sales.

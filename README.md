@@ -165,3 +165,9 @@ The Deep Dive page investigates the key drivers behind revenue and profitability
 - Top 20% customers spent approximately **₹11.5K per customer**.
 - Bottom 80% customers spent approximately **₹3.7K per customer**.
 - This represents roughly a **3.1× difference in average customer spend**, highlighting an opportunity to increase spending among lower-value customer segments.
+
+## 💡 Business Recommendation
+
+### Investigate Potential Supplier Disruption
+
+The **42% revenue decline in June 2024**, driven by **Furniture (-65%)** and **Electronics (-55%)**, may indicate a potential **supplier, inventory, or fulfillment disruption** rather than a discount-related issue. Review stock availability, supplier performance, and fulfillment delays, and strengthen backup-supplier and inventory planning to prevent similar revenue disruptions.

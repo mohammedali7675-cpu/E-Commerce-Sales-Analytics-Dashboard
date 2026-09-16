@@ -61,3 +61,31 @@ which ones need immediate business intervention?
 - Connected revenue trends, discount levels, product margins, and customer behavior to identify business performance gaps.
 - Used the analysis to identify opportunities for discount optimization, high-margin category growth, and increasing customer spending.
 - Translated data-driven findings into actionable business recommendations.
+
+## 🧮 SQL Analysis
+
+PostgreSQL was used to transform the business questions into
+data-driven analysis. SQL queries were developed to analyze:
+
+- Monthly revenue trends and MoM changes
+- Product and category profitability
+- Customer segmentation and repeat-purchase behavior
+- Top 20% vs Bottom 80% customer revenue contribution
+- Profit margin vs discount impact
+- Sub-category performance and ranking
+- High-profit and low-profit products
+
+### Key SQL Techniques
+
+- `GROUP BY` and aggregate functions
+- `CASE WHEN` for business logic
+- Date and time functions
+- Common Table Expressions (CTEs)
+- Window functions
+- `RANK()` / `ROW_NUMBER()`
+- Subqueries
+- Customer segmentation
+- Revenue and profit calculations
+
+📄 **[View Complete SQL Analysis](./Analysis_queries.sql)**
+
